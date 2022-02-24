@@ -1,0 +1,571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Family-governors perswaded to family-godliness, or, The masters charge opened, and humbly offered, to all governors of families particularly within the ancient borough of Bridgewater, and adjacent villages thereunto / by John Norman ...</title>
+            <author>Norman, John, 1622-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52409</idno>
+            <idno type="STC">Wing N1241</idno>
+            <idno type="STC">ESTC R41383</idno>
+            <idno type="EEBO-CITATION">31355237</idno>
+            <idno type="OCLC">ocm 31355237</idno>
+            <idno type="VID">110359</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52409)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110359)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1748:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Family-governors perswaded to family-godliness, or, The masters charge opened, and humbly offered, to all governors of families particularly within the ancient borough of Bridgewater, and adjacent villages thereunto / by John Norman ...</title>
+                  <author>Norman, John, 1622-1669.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Maxey for Samuel Gellibrand ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, tightly bound, and with print show-through and loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Family --  Religious life.</term>
+               <term>Family --  Biblical teaching.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110359:1" rendition="simple:additions"/>
+            <p>FAMILY-GOVERNORS Perſwaded to <hi>Family-Godlineſs:</hi> OR, The MASTERS Charge OPENED, And humbly offered, To all Governors of FAMILIES; Particularly within the ancient Borough OF <hi>BRIDGEWATER,</hi> And adjacent Villages thereunto.</p>
+            <p>By JOHN NORMAN Mi<g ref="char:EOLhyphen"/>niſter of the Goſpel.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>A. Maxey,</hi> for <hi>Samuel Gellibrand,</hi> at the golden Ball in <hi>Pauls</hi> Church-yard. 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110359:2"/>
+            <pb n="3" facs="tcp:110359:2"/>
+            <head>FAMILY-GOVERNORS Perſwaded to Family-Godlineſs: OR, The Maſters Charge opened, and humbly offered, <hi>&amp;c.</hi>
+            </head>
+            <p>MY dearly beloved and longed for, That I may preſent yours perfect in Chriſt, and perſwade you to be not onely al<g ref="char:EOLhyphen"/>moſt, but altogether Chriſtians a<g ref="char:EOLhyphen"/>mong them, is the onely deſign of this Pa<g ref="char:EOLhyphen"/>per.</p>
+            <p>Being made of God a Watchman to you, neceſſity is laid upon me, yea, woe is to me, if I do not give, and woe is to you, if you will not receive the warning at his mouth, [<hi>Ezek.</hi> 3.17, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> 21. 1 <hi>Cor.</hi> 9.16.] I beſeech you therefore, Brethren, ſuffer the Word of Exhortation: And <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there be any ſenſe of ſin, any zeal for your
+<pb n="4" facs="tcp:110359:3"/>Saviour, any fellowſhip of the Spirit, any fel<g ref="char:EOLhyphen"/>low-feeling with the Saints, Let the glory of the great God, the Goſpel of his Grace, the good of Immortal Souls, both their and yours, awa<g ref="char:EOLhyphen"/>ken your uttermoſt Cares, Kindneſſes, and Com<g ref="char:EOLhyphen"/>paſſions, and whatſoever is of God in your hearts, to the advancement of godlineſs in your houſes; That the Tabernacle of God may be with you, and we may yet ſee <hi>Jeruſalem</hi> a quiet habitation.</p>
+            <p>With how many clear Commands is this your duty inforced? [Reade <hi>Deut.</hi> 4.9, 10. <hi>Ch.</hi> 6.7, 8 9. <hi>Ch.</hi> 11.19.20. <hi>Pſal.</hi> 78.5, 6.] And with how great a Cloud of Witneſſes are you encompaſſed? [See the after-mentioned] What ſhall I ſay? This Paper would fail me to tell you of <hi>Gideon,</hi> and <hi>Jacob,</hi> and <hi>Joſeph,</hi> of <hi>Elkanah, Job</hi> alſo, and <hi>Samuel,</hi> and of the Pro<g ref="char:EOLhyphen"/>phets, [<hi>Judg.</hi> 6.26, 27. <hi>Gen.</hi> 35 2. <hi>Ch.</hi> 43.23. <hi>with v.</hi> 16. 1 <hi>Sam.</hi> 1.21. <hi>Job.</hi> 1.5. 1 <hi>Sam.</hi> 7.17. 2 <hi>Kings</hi> 5.25, 26.] If Examples before, under, or ſince the Law, and in the Goſpel; if of great Kings, General Commanders, holy Patriarchs or noble Peers; if of Civil Officers of Military Officers, or of Church-Officers; if of Magi<g ref="char:EOLhyphen"/>ſtrates, or of meaner Men and Women; if any, or all of theſe may perſwade any thing: Lo <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> you have all theſe to induce and incourage you [<hi>Pſal.</hi> 101.2, <hi>&amp;c. Joſh.</hi> 24.15. <hi>Gen.</hi> 18.19. <hi>Ch.</hi>
+               <pb n="5" facs="tcp:110359:3"/>35.2, <hi>&amp;c. Joh.</hi> 4.53. <hi>Luke</hi> 19.9. <hi>Acts</hi> 10.2. 1 <hi>Tim.</hi> 3.4, 12 <hi>Acts</hi> 18.8. <hi>Ch.</hi> 16.15, 34.]</p>
+            <p>Beloved, may I expoſtulate it a little with you, for and before the Lord?</p>
+            <p>
+               <hi>Are you Chriſtians?</hi> You have all a form of Chriſt, and Chriſt is verily formed in many of you. O you that have received Chriſt the King into your hearts, can you refuſe the King<g ref="char:EOLhyphen"/>dome of Chriſt, in and for your Houſholds? What! Converted your ſelves, and have Chriſt to dwell in you, and yet careleſs of having Chriſt to dwell in yours! How can this be? [<hi>Luke</hi> 19.5 6. <hi>Ch.</hi> 22.32.] What Chriſtian Maſter can you inſtance in, of the Houſhold of Faith, who continued negligent of making his Houſhold faithful? [See <hi>Luke</hi> 19.9. <hi>Joh.</hi> 4.53. <hi>Acts</hi> 10.2. <hi>&amp;</hi> 12.12. <hi>&amp;</hi> 16 15, 34. <hi>&amp;</hi> 18.8. <hi>Rom.</hi> 16.5 1 <hi>Cor.</hi> 1.11. <hi>&amp;</hi> 16 16, 19. <hi>Col.</hi> 4.15. <hi>Philem. v.</hi> 2.]</p>
+            <p>
+               <hi>Are you Chriſtians?</hi> What! and is your care no further extended, than to the backs and bellies of yours, or bettering them in their Trades, &amp;c? Do not even the Gentiles the ſame? Are you no better than they? [<hi>Matth.</hi> 6.8, 32.] Nay, they will teach theirs the wor<g ref="char:EOLhyphen"/>ſhip of their falſe gods, which are no gods. Owe not you, Chriſtians, much more to the li<g ref="char:EOLhyphen"/>ving God, than Heathens can to their dead Idols? Need I mention the debt you owe to
+<pb n="6" facs="tcp:110359:4"/>the houſe of Chriſt, and to the houſe of the Kingdome? Are we ſerious, and in earneſt for a Reformation in Church and Commonwealth? Let us throw Salt into the Fountain, ſet upon the Reformation of our ſeveral Families. Pri<g ref="char:EOLhyphen"/>vate Houſes are the Hives and Seminaries of all that are ſet, or ſwarm abroad into any Publick<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whether Civil or Church-Employments.</p>
+            <p>
+               <hi>Are you Chriſtians?</hi> Oh! let the Example and Activity of the Jews under the Old Teſta<g ref="char:EOLhyphen"/>ment, provoke you. [See the fore-cited Scri<g ref="char:EOLhyphen"/>putures, <hi>Judg.</hi> 9.6, <hi>&amp;c. and Pſal.</hi> 101, <hi>&amp;c.</hi>] We<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> they ſo abundant in labours herein, before th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> manifeſtation of Chriſt in the fleſh? and ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you abide ſlothful under higher Motives, greate<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Means, and a better Miniſtration? VVho hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more Promiſes to incourage, and pourings ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Spirit to enable? VVhat! and dar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch of you yet profeſs, That Chriſt is yours and that you are his? Beloved, is Chriſt no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> become leſs active in his? Chriſtianity mor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> abhorrent from him? or may the care and co<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſcience of Chriſtians be more abandoned, bot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as for him and their own? Is grace indeed now leſs diffuſive? Are the gracious to be leſs dil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>gent? or are the heavenly glories of leſs dig<g ref="char:EOLhyphen"/>nity, and the happineſs and good of yours to be leſs deſired?</p>
+            <p>
+               <hi>Oh Chriſtians!</hi> Do even the Sea-Monſter
+<pb n="7" facs="tcp:110359:4"/>draw out the breſt? they give ſuck to their young ones; and ſhall Saints by Calling and Covenant, become cruel to the better part of theirs, like the Oſtriches in the Wilderneſs? Oh! where are the yernings of your bowels! Hear you not the Souls of your Servants, and of the ſeed of your loyns (in effect) crying after you, <hi>Have pity upon us! have pity upon us! The whole Head is ſick, the whole Heart is faint: Where! O where are your healing Me<g ref="char:EOLhyphen"/>dicines! Will you do no more for us, than for your Horſe, your Dog, your Swine? You look after the Bodies of theſe.</hi>
+            </p>
+            <p>Beloved, for your own happineſs ſake, for your Houſholds ſake, I beſeech you be up and doing.</p>
+            <p>Firſt, for your own happineſs ſake. Earthly happineſs ſhall I mention? Verily, there is no ſuch way of having yours dutiful to, and obſer<g ref="char:EOLhyphen"/>vant of you, as for you to teach them their du<g ref="char:EOLhyphen"/>ty to, and the ſervice of God. [<hi>Gen.</hi> 24.33, <hi>ad</hi> 50. <hi>Prov.</hi> 15.20. <hi>Gen.</hi> 27.11, 12.] For if they obey not him the Lord, how will they obey you his Stewards? [<hi>Mat.</hi> 10.24. <hi>Ezek.</hi> 3.7.] Let them be but once pious toward God, and they will ſoon be profitable to you: and how may God proſper you for them? [See <hi>Philem. ver.</hi> 11. <hi>Gen.</hi> 30.27.30. <hi>&amp;</hi> 39.2, 3.] Beſides, what know you, O men, whe<g ref="char:EOLhyphen"/>ther
+<pb n="8" facs="tcp:110359:5"/>you ſhall ſave your wives? You Houſhold-governors, thoſe under your Houſhold-govern<g ref="char:EOLhyphen"/>ment? [1 <hi>Cor.</hi> 7.16.] Oh! how happy! thrice happy would your Families be, if you Husbands and Wives ſhall be betrothed to the ſame God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you Parents and Children begotten of the ſame Goſpel! you Maſters and Servants born Heirs to the ſame Glory! Oh! what little Churches; nay, what lower heavens are ſuch Houſholds! But if your houſes be not thus with God, Let it not ſeem a light thing to you, if you have de<g ref="char:EOLhyphen"/>tained them but from one ſin, or but delivered your own Souls. Verily, you are a ſweet ſa<g ref="char:EOLhyphen"/>vour, though yours ſhould periſh. God doth not reward according to the ſucceſs of your work, but the ſincerity of a willing minde: [2 <hi>Cor.</hi> 2.15, 16. <hi>Iſa.</hi> 49.5. 2 <hi>Cor.</hi> 8.12. <hi>&amp;</hi> 1.12.]</p>
+            <p>Secondly, for your Houſholds ſake. He that provides not for his own, ſpecially for thoſe of his own houſe, hath he not denied the Faith, and is worſe than an infidel? [1 <hi>Tim.</hi> 5.8.] Is this true in Temporals and not much more in Spirituals? Muſt you provide food, clothing, and cure for their Mortal Bodies; [See <hi>Gen.</hi> 30.30. <hi>Prov.</hi> 27.27. <hi>&amp;</hi> 31.15. <hi>Matth.</hi> 8.6.] and be at no pains for their immortal Souls? Muſt you give thoſe Bread and Fiſh, and theſe onely Stones and Serpents? either no proviſion, or
+<pb n="9" facs="tcp:110359:5"/>which is worſe, poiſon? Doth Faith teach ſuch care for the Trunk and Cabinet, and mean<g ref="char:EOLhyphen"/>while to caſt by this Jewel, which a whole world cannot equal, much leſs exceed? Are Souls ſo little worth, and States ſo much? [Remember <hi>Matth.</hi> 16.26. 1 <hi>Pet.</hi> 1.18, 19. <hi>Luke</hi> 16.19. <hi>ad</hi> 29.] Can earth ſhew you, or ſecure them ſuch a far more exceeding and eternal weight of glo<g ref="char:EOLhyphen"/>ry, as heaven can and doth? If you are in good earneſt, when you talk of their happineſs, of Heaven, Hell, the Glories with Chriſt, and the gawdy Vanities of the creatures; why do not you ſtudy to lay up for them the beſt Trea<g ref="char:EOLhyphen"/>ſures? a good Foundation againſt time to come, that they may inherit Eternal Life? Do we in<g ref="char:EOLhyphen"/>deed believe that Scripture, <hi>Mat.</hi> 6.33? Ah! my Brethren, conſider:</p>
+            <p n="1">1. Do not your Families want it? In the firſt Family, was there not a <hi>Cain?</hi> in the beſt, a <hi>Judas?</hi> and when there was but one onely Fa<g ref="char:EOLhyphen"/>mily in the world, was there not, even in that, a <hi>Cham?</hi> Think over the provoking Sins, Standals, and Sinks of Defilements and Diſcord that were in <hi>Abraham's, Iſaac's,</hi> and <hi>Jacob's</hi> Families, of whom yet as concerning the fleſh Chriſt came: and if ever you did ſee ſin ſinful, or were ſenſible of Gods diſhonour, judge this, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>sk then needleſs, if you can. [<hi>Geneſ</hi> 16.4, 5. <hi>&amp;</hi> 21.9. <hi>&amp;</hi> 26.35. <hi>&amp;</hi> 27.31. <hi>&amp; ck.</hi> 30. <hi>ch.</hi> 34. <hi>ch.</hi> 35. <hi>ch.</hi> 37.]</p>
+            <pb n="10" facs="tcp:110359:6"/>
+            <p n="2">2. Will not your Families elſe wreck it? How often have Families rued their Fathers remiſs<g ref="char:EOLhyphen"/>neſs upon Earth? and how many are now Roaring in Hell, becauſe they reſtrained them not, who knoweth? [See <hi>Exod.</hi> 20.5. <hi>Pſal.</hi> 109.9, <hi>ad</hi> 16. <hi>Iſa.</hi> 14.21, 22, 23. <hi>&amp;</hi> 31.2. 1 <hi>Sam.</hi> 3.13, 14.] And is this of your iniquities a ſmall matter? even the blood of the Souls of poor Innocents? To make your Children and Servants twice more the children of wrath, and drudges of Satan, by your counſel, conver<g ref="char:EOLhyphen"/>ſation, or careleſneſs?</p>
+            <p n="3">3. Doth not your Family-weal depend upon it? Is not godlineſs the great gain? Hath no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this the Promiſe? What but Family-Piety, hath the Entail of Family-Proſperity? [See <hi>Job</hi> 22.24, <hi>to the end. Pſa.</hi> 118.15. <hi>&amp;</hi> 128. <hi>through<g ref="char:EOLhyphen"/>out: Pſal.</hi> 37.25. <hi>Prov.</hi> 12.7. <hi>&amp;</hi> 15.6. <hi>&amp;</hi> 24.3, 4.] Why is <hi>Abraham</hi> called out to be ſuch a ſignal Monument of Gods ſpecial Mercy? but in that <hi>Abraham</hi> will command his chil<g ref="char:EOLhyphen"/>dren and his houſhold after him, and they ſhall keep the wayes of the Lord. [Reade <hi>Geneſ.</hi> 18.17, 18, 19.] Oh! Chriſtians! if ye would not conſult ſhame to your houſes, keep out ſin from, and keep up the ſervice of God in your houſes. Would you perpetuate a Family on earth? acquaint them with him, of whom the whole Family both in Heaven and Earth is
+<pb n="11" facs="tcp:110359:6"/>named. Ah Friends! there is ſet before you life and death, bleſſing and curſing; therefore chooſe life, that you and your ſeed may live for ever. [See <hi>Prov.</hi> 3.33. <hi>Pſal.</hi> 55.15. <hi>Job</hi> 18.15. <hi>to the end: and</hi> 11.14, <hi>ad</hi> 20.] If you will keep up their dignity, or keep off theſe dan<g ref="char:EOLhyphen"/>gers, be conſcientious, I beſeech you, of theſe your Duties.</p>
+            <div n="1" type="instruction">
+               <head>
+                  <hi>Direction</hi> I.</head>
+               <p>You muſt know how to rule your houſes. [1 <hi>Tim.</hi> 3.5.] Wiſdome is the principal thing, as for heart, ſo for houſe-work too. [<hi>Pro.</hi> 4.7. <hi>Pſal.</hi> 101.2.] You Houſholders ſhould be trea<g ref="char:EOLhyphen"/>ſuries of Inſtruction. [<hi>Mat.</hi> 13.52.] You are to teach others, and do you not teach your ſelves? [<hi>Rom.</hi> 2.21. <hi>Heb.</hi> 5.12.] You ſhould be to your Wives, Sons and Servants, as is the Sun to the Moon and Stars; and the Maſter of the Ship to the other Mariners. They ſhould all ſhine from your light, and is this darkneſs? You are to be eyes to the blinde, and feet to the ſame; Souls in your Families: and is the eye evil? Verily, the whole body will be full of darkneſs. [<hi>Mat.</hi> 6.23.]</p>
+            </div>
+            <div n="2" type="instruction">
+               <pb n="12" facs="tcp:110359:7"/>
+               <head>
+                  <hi>Direction</hi> II.</head>
+               <p>'Tis not enough to know how to rule your houſes, but you muſt keep up the Rule which God would have you know. [1 <hi>Tim.</hi> 3.4, 5.] VVot you what Authority you are veſted with over them; and what awe they ſhould ſtand in of you? [Conſult <hi>Exod.</hi> 20.12. <hi>Levit.</hi> 19 3. <hi>Deut.</hi> 27.16. <hi>Epheſ.</hi> 6.5. <hi>Col.</hi> 3.22.] I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you would rule with Gods approbation, you muſt not remit this Authority: Are you not his Deputies, <hi>Col.</hi> 41? Let pious counſels be back'd with powerful commands: [See <hi>Geneſ<g ref="char:punc">▪</g>
+                  </hi> 18.19. <hi>Deut.</hi> 32.46, 47. <hi>Luke</hi> 7.8, 9.] Never think you ſhall behave your ſelves unblameably, unleſs you do bear up this Authority given you<g ref="char:punc">▪</g> 1 <hi>Theſſ.</hi> 2, 10, 11.</p>
+               <p>Saith any, An<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but how ſhall I? This is my difficulty. I anſwer: 1. Bring thy houſe as much as thou canſt under the authority o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God, and bear up Gods authority over thy own heart, before thy houſhold. Exalt this in thy houſe, and it will exalt thee unto honour. Thou haſt a double aſſurance: the fear of god<g ref="char:EOLhyphen"/>lineſs upon them, and the faithfulneſs of God to thee. [<hi>Gen.</hi> 27.12. <hi>Prov.</hi> 29.15, 17. 1 <hi>Sam.</hi> 2.30. <hi>with</hi> 29. <hi>Joh.</hi> 12.26.] 'Tis worthy of thy enquiry: Hath not God let down my au<g ref="char:EOLhyphen"/>thority,
+<pb n="13" facs="tcp:110359:7"/>becauſe I let fall, or did not lift up <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is among mine? hath he not raiſed up evil againſt me, out of my houſe, becauſe of the reproach his Name hath ſuſtained by my evil, in and before my houſhold? See <hi>Sam. ibid. and</hi> 2 <hi>Sam.</hi> 12.11. <hi>Iſa.</hi> 1.5. <hi>Lam.</hi> 1.8.] Let <hi>Noah</hi> and <hi>Lot,</hi> but in one particular, in<g ref="char:EOLhyphen"/>termit their Faith in God, and fear of ſin; theirs will ſoon arrive to both ſhameleſneſs of ſin, and fearleſneſs of them. [See <hi>Gen.</hi> 9.21, 22. <hi>&amp;</hi> 19 31, <hi>to</hi> 37.]</p>
+               <p n="2">2. Bear a more even ſail and rein of an<g ref="char:EOLhyphen"/>thority over them. Not too remiſs; how ſhall they then give you reverence? [<hi>Heb.</hi> 12.9. <hi>Prov.</hi> 29.15.] Remember <hi>Davids</hi> fondlings, who all either ſought his death, or found their own [See 1 <hi>Kings</hi> 1.5, 6, <hi>&amp;c.</hi>] Nor <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay it be too rigid and reſtrained. How often doth the ſtring break, by ſcrewing it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o high? In every capacity, as Husband, father, Maſter, there are ſome Cautions given <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hee for allay. [<hi>Col.</hi> 3.19. 1 <hi>Pet.</hi> 3.7. <hi>Eph.</hi> 6.4, 9. <hi>Col.</hi> 4.1.</p>
+            </div>
+            <div n="3" type="instruction">
+               <pb n="14" facs="tcp:110359:8"/>
+               <head>
+                  <hi>Direction</hi> III.</head>
+               <p>Keep out Seducers and Soul-deceivers. Re<g ref="char:EOLhyphen"/>ceive them not into your houſes, neither bi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them God ſpeed. [Conſider 2 <hi>John</hi> 10.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1 Tim 65. Rom 16.17.] Oh! how ready are ſuch to creep in uncalled for! and how ofte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſubvert they whole houſes! if you cannot ſto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their mouthes, yet may you ſhut your doors [2 <hi>Tim.</hi> 3.6. <hi>Tit.</hi> 1.10, 11.] The Thief come not, but to ſteal, or worſe: And are not th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Souls of yours your beſt Subſtance? If you are good men, watch, <hi>Luke</hi> 12.39. VVill yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not keep the Plague out of your houſes? wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are deceivers, and men of debauch'd Principle or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ractices leſs, whoſe words will eat as doth a Canker? [2 <hi>Tim.</hi> 2.17.] Ah! who ſhoul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not ſay touching his houſhold, as <hi>David</hi> withi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his? <hi>I hate the work of them that turn aſide it ſhall not cleave to me,</hi> Pſal. 101. compare <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> &amp; 3 verſes.</p>
+            </div>
+            <div n="4" type="instruction">
+               <pb n="15" facs="tcp:110359:8"/>
+               <head>
+                  <hi>Direction</hi> IV.</head>
+               <p>Caſt out ſinful defilements, leſt they caſt out you, and cauſe the curſe to come in upon your dwellings. [See <hi>Jer.</hi> 6.11, 12, 13. <hi>&amp;</hi> 9.15, 16, 19, 20, 21. <hi>Pſal.</hi> 49.11, 12.] So dwell in your houſes, as God may dwell with you. [2 <hi>Cor.</hi> 6.16, 17, 18. <hi>Pſal.</hi> 101.2.] Oh! learn from <hi>Jacob,</hi> to cleanſe firſt your own hearts, then your houſholds. [<hi>Gen.</hi> 35.2, <hi>&amp;c.</hi>] Caſt out ſinful matters, the reproach and ruine of any people, [<hi>Job</hi> 11.14. <hi>Prov.</hi> 14.34.] and ſinful, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f ſeparable, Members, that being often reproved harden their necks. Out with ſuch <hi>Iſhmaels,</hi> as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>coff at godlineſs. Did <hi>Sarah</hi> onely ſuggeſt it, <hi>Gen.</hi> 21.9, 10? Nay, the Scripture hath ſaid it, [See <hi>Gal.</hi> 4 30.] Conſult no longer in it with fleſh and blood: but, come, reade and reſolve with <hi>David,</hi> Pſal. 101.3 <hi>ad</hi> 8.</p>
+            </div>
+            <div n="5" type="instruction">
+               <head>
+                  <hi>Direction</hi> V.</head>
+               <p>Cauſe them to ſanctifie the Sabbaths of God. Is not the fourth Commandment for you? even for you? And are not you charged with your ſons, your daughters, your man-ſervants, and your maid-ſervants in it? Yea, and upon how many cogent reaſons? <hi>Exod.</hi> 20.10, 11. [Reade <hi>Levit.</hi> 23.3.] Hath not God given you their
+<pb n="16" facs="tcp:110359:9"/>ſix dayes labour; and will you gradge him their ſeventh dayes reſt? So you have their ſervice ſix dayes, matters it not whether God or the World, Sin and Satan have the ſeventh? How unnatural and, unthankful would you <hi>thus</hi> be? Oh! command them to cleanſe themſelves, and keep the Sabbath as did good <hi>Nehemiah,</hi> both them and the Levites. [<hi>Nehem.</hi> 13.19, 21] If yours ſhall now follow their labours, or finde their pleaſures on this holy Day, muſt i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not be ſaid unto you. <hi>What evil thing is this that Y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>E do, and profane the Sabbath day?</hi> [Ver. 15, 16, 17.] <hi>Will you yet bring more wrath upon</hi> England, <hi>by profaning the Sabbath?</hi> [Ver 18. Jer. 17.27.]</p>
+            </div>
+            <div n="6" type="instruction">
+               <head>
+                  <hi>Direction</hi> VI.</head>
+               <p>Carry them abroad with you to the ſolemn Worſhip of God. Should not your houſholds ariſe, and go up to <hi>Bethel</hi> with you, to offer to the Lord? that they may learn to hear, and fear the Lord our God, and obſerve to do all the words of his Law: Verily, yes; if either Scripture-Patterns or Precepts may determine it. [Conſult <hi>Gen</hi> 35.2, 3. 1 <hi>Sam.</hi> 1.21. <hi>Exod.</hi> 10.9. <hi>Deut.</hi> 31.12. <hi>Joſh.</hi> 8.35. <hi>Deut.</hi> 29.10, 11, 12, 13] VVould you not fain have them to heaven with you? why then not to hear, &amp;c. with
+<pb n="17" facs="tcp:110359:9"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou? Can they believe in him of whom they <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve not heard? or go to heaven without be<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing? [<hi>Rom.</hi> 10.13, 14.] Henceforth then, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> with a multitude to the Houſe of God. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>his will be your Crown and Comfort, when <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u can tell the Miniſter of God, concerning <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th your ſelves and houſholds, <hi>We are ALL <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> preſent before God, to hear all things that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> commanded thee of God.</hi> [Pſal. 42.4. Acts <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 33. with 2.]</p>
+            </div>
+            <div n="7" type="instruction">
+               <head>
+                  <hi>Direction</hi> VII.</head>
+               <p>Be careful to inſtruct them at home in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od VVord and VVorks of God. Think you it is the duty onely of Miniſters to their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocks? Nay, but of Maſters likewiſe to their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>milies. You are under as expreſs Obliga<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ns, and have more eminent Opportunities, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o are with them at all ſeaſons. [See <hi>Epheſ.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4. <hi>Deut.</hi> 4.9, 10. <hi>&amp;</hi> 32.46. <hi>Pſal.</hi> 78.5, 6. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 38.18, 19.] Yea, not onely you Fathers <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d Maſters, but you Mothers and Miſtriſſes, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould inſtruct yours in the wayes of Righte<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſneſs. [<hi>Prov.</hi> 18. <hi>&amp;</hi> 4.3, 4. <hi>&amp;</hi> 31.1, 26. <hi>Acts</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.26.] Oh Chriſtians!</p>
+               <p n="1">1. Be careful that the holy Scriptures be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en read to, and by them. Hath not God
+<pb n="18" facs="tcp:110359:10"/>commanded it both to you and them? [Tu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to <hi>Deut.</hi> 11.19. <hi>&amp;</hi> 6.7. <hi>Iſa</hi> 34.16 <hi>Joh.</hi> 5.39<g ref="char:punc">▪</g> Are they not able to make you wiſe unto Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vation? and are profitable to every thing [2 <hi>Tim.</hi> 3.15, 16, 17.] Oh! that this wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> might dwell henceforth richly in you, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> among them! which is ſo much ſweeter tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> honey, and more to be deſired than much fir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> gold for them. [<hi>Col.</hi> 3.16. <hi>Pſal.</hi> 19.10. <hi>&amp;</hi> 119<g ref="char:punc">▪</g> 72, 127. <hi>Prov.</hi> 8.19.]</p>
+               <p n="2">2. Be not careleſs to repeat Scripture Truths, and Sermons among them. Wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God had ſpoken to Iſrael by his Miniſter a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Horeb,</hi> each Maſter in Iſrael muſt ſpeak it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ver again, talk of it in, and teach it diligen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ly to his houſe: and there are no ſmall Pre<g ref="char:EOLhyphen"/>miſes annexed to this thing. [Reade <hi>Deut.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 6, 7, 9. <hi>&amp;</hi> 4.9, 10. <hi>&amp;</hi> 11.18, 19, 20.] Do n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> your ſelves need line upon line, who ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> more quickneſs to receive, and capacious Me<g ref="char:EOLhyphen"/>mories to retain? And can it be a needle work then among yours? Ah Brethren <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Liſten not any longer to ſinful, or ſullen E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ceptions or Excuſes. Oh! Let not this ſee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grievous to you, which is ſo good for them [<hi>Phil.</hi> 3.1.]</p>
+               <p n="3">3. Catechize them in the Principles of Reli<g ref="char:EOLhyphen"/>gion:
+<pb n="19" facs="tcp:110359:10"/>That your Children and Servants may <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e like <hi>Abrahams [Eth-Chanican]</hi> Catechi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed Servants. [<hi>Gen.</hi> 14.14] Should you not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>het or ſharpen the Word of God upon them, as you ſit in your houſes? [<hi>Deut.</hi> 6.7. <hi>Margin</hi>] <hi>ſcil.</hi> by fetching the ſame Funda<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ental Truths of God forth and back, over <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd over, by Catechiſtical Queſtions and An<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wers? Oh! Catechize them betimes, in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay they ſhould go, and when they are old <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ey will not depart from it. [<hi>Prov.</hi> 22.6. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee the Marginal Reading.</hi>] Think not ei<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er your pains herein too much, or the pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hereof to be but ſmall.</p>
+               <p n="4">4. Keep them cloſe to the Practice of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ligion likewiſe. Muſt you to the Solemn <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bbath-duties? and why not to Secret du<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s alſo? [<hi>Exod.</hi> 20.10. <hi>See</hi> 1 <hi>Chron.</hi> 28.9. <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cts</hi> 21.5.] Why ſhouldſt thou think, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> learn any from a childe the holy Scri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>res, Pſalms, Prayers, &amp;c. is but to lead <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th into Hypocriſie? Doth <hi>Paul</hi> ſo harſh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> cenſure? or commends he not rather the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e pious care in <hi>Timothy</hi>'s Mother and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>randmother? [Compare 2 <hi>Tim.</hi> 1.5. <hi>with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hap.</hi> 3.14, 15.] Let the Scribes ſwell with <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dignation, at the little Childrens ſinging <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſannah,</hi> a part of the 118th Pſalm; (which
+<pb n="20" facs="tcp:110359:11"/>it ſeems their Parents had taught them) bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> let Saints, as did our Saviour, juſtifie them [<hi>Matth.</hi> 21.15, 16.] 'Tis <hi>Pharaoh</hi> onely tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> will abridge the little ones from keeping <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Feaſt to the Lord: <hi>Moſes</hi> will not accept l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bertie from him for themſelves, unleſſe he ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> have the young ones, as well as the old wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him. [<hi>Exod.</hi> 10 8, 9, 10] Oh Beloved I No<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are the choice dayes; [<hi>Eccleſ.</hi> 12.1. <hi>Hebr</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Now, if ever, to initiate and inure them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the remembrance of their Creator, and exe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ciſes of Religion, while their hearts are y<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tender, and not hardned againſt ſpiritual im<g ref="char:EOLhyphen"/>preſſions. [See <hi>Prov.</hi> 4.3, 4. <hi>Iſai.</hi> 28.9. Can you forget young <hi>Samuel?</hi> Young <hi>O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> badiah, &amp;c.?</hi> Is there no preſent efficacy<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yet may their profitings be eminent hereb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> afterwards, [Compare Joh. 2.22. with 19 John 12.15. with 16.] Do you not conve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in any good? yet ſhall you hereby keep o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> much bad, [2 <hi>Chron.</hi> 24.2. <hi>chap.</hi> 25.2.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> If you will not learn them to bleſſe, they w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> learn to curſe God. Why ſhould they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be taught to cry <hi>Hoſannah,</hi> who witho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> teaching this, may perhaps otherwiſe cr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Go up thou bala-head?</hi> [See 2 Kings <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 23, 24.</p>
+               <pb n="21" facs="tcp:110359:11"/>
+               <p n="5">5. Call them frequen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly to accompt, how they profit in religion, and by reading, hear<g ref="char:EOLhyphen"/>ing, &amp;c. Ow you not as much to Gods truths, us to their, or your owne Trades? [<hi>Prov.</hi> 23.23] Would you be ſo negligent, in ask<g ref="char:EOLhyphen"/>ing after what they do in your Shops, or a<g ref="char:EOLhyphen"/>mong your Sheep, &amp;c. as how they do in their Souls? Oh! That we might learne of Chriſt to look better to our families! See what a pattern he hath left us of enquiring into their ſpiritual eſtates, whether and what they under<g ref="char:EOLhyphen"/>ſtand, &amp;c. <hi>Matth.</hi> 13.51. <hi>Chap.</hi> 16.11, 13, 15.</p>
+               <p n="6">6. Commune familiarly ever and anon with them, about both the principles and practice of Religion. Deny them not libertie to ask, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or diſdain to anſwer ſuch queſtions, as may miniſter godly edifying. What but either hor<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id pride, or ſtupid ignorance, ſhould hinder <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, who have ſuch cloſe engagements to it, [See 1 <hi>Cor.</hi> 14.35. <hi>Exod.</hi> 12.26. <hi>Joſh.</hi> 4.6.] and the unqueſtionable example of Chriſt for it? [Peruſe <hi>Matth.</hi> 13.10, 36. <hi>Mark</hi> 4.10. <hi>Luke</hi> 2.46.] Are any of our houſholds more beneath <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, then were Chriſts Diſciples below him, who was King of Kings and Lord of Lords?</p>
+            </div>
+            <div n="8" type="instruction">
+               <pb n="22" facs="tcp:110359:12"/>
+               <head>
+                  <hi>Direction</hi> VIII.</head>
+               <p>Call and keep them together frequently, for the Spiritual Worſhip of God. Let <hi>J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ſhuah's</hi> purpoſe be each of yours; <hi>Let it ſeem evil to others: chooſe they what and whom they liſt—but as for me and my houſe, we will ſerve the Lord</hi> [Joſh. 24.15.] Do not onely offer Praiſes and Prayers to God for them, but with them alſo; to which adjoyn Faſting, as is occaſion. [<hi>Job</hi> 1.5. <hi>Eſther</hi> 4.16.]</p>
+               <div n="1" type="section">
+                  <head>§. 1.</head>
+                  <p>Sing with grace in your hearts the Pſalms of God in your houſes. [<hi>Epheſ.</hi> 5.19. <hi>Col.</hi> 3.16.] Judge it not a matter arbitrary, but a manifeſt duty. [See <hi>Pſal.</hi> 135.19, 20 <hi>Pſal.</hi> 30. <hi>Title of the Pſalm.</hi>] Are you righteous? and ſhall not the voyce of Rejoycing and Sal<g ref="char:EOLhyphen"/>vation be in the Tabernacles of the righteous? [<hi>Pſal.</hi> 118.15.] Be ye followers of Chriſt; [<hi>Matth.</hi> 11.29 1 <hi>Cor.</hi> 11.1.] whom in this likewiſe ye have for an example, of ſinging an Hymn with his Family; <hi>ſc.</hi> his Diſciples, [<hi>Matth.</hi> 26.30.]</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="23" facs="tcp:110359:12"/>
+                  <head>§. 2.</head>
+                  <p>Ceaſe not to pray with them. Turn diſpu<g ref="char:EOLhyphen"/>ting into doing. Was it not better with you, than now, when you prayed among them more, and puzled your ſelves and others leſs? I beſeech you, Brethren, for the Lord Jeſus Chriſts ſake, and for the love of the Spirit, ſtrive together in Prayer for and with them. Conſider, Chriſtians:</p>
+                  <p n="1">1. Are you not eminently concerned in it? Are not all things ſanctified by Prayer? [1 <hi>Tim.</hi> 4.5.] Doth not the ſucceſs of all depend upon Prayer? [Reade <hi>Ezek.</hi> 36.37. <hi>Jer.</hi> 29.11, 12. 2 <hi>Sam.</hi> 7.29.] Is there not a ſingular efficacy, and ſurpaſſing excellency in Prayer, eſpecially joynt Prayer? <hi>Joſh.</hi> 10.12, 13. <hi>Jam.</hi> 5 14, <hi>ad</hi> 19. <hi>Acts</hi> 12.5, <hi>ad</hi> 12.] And are not all Societies, that have an hand in common Sins, Sufferings and Salvations, to have hearts concurring to common Humiliations, Suppli<g ref="char:EOLhyphen"/>cations, and Thankſgivings? [See 2 <hi>Cor.</hi> 1.11. 2 <hi>Chron.</hi> 20.4. <hi>Jon.</hi> 2.8. 1 <hi>Chron.</hi> 29.20. <hi>Acts</hi> 1.14, 24. <hi>&amp;</hi> 4.23, 24. <hi>&amp;</hi> 21.5.] Ah beloved! may, yea muſt Cities, Churches, and Common<g ref="char:EOLhyphen"/>weals joyn? and yet may not Families? whoſe Opportunities are far more, and Obli<g ref="char:EOLhyphen"/>gations never a whit leſs? What! are you
+<pb n="24" facs="tcp:110359:13"/>Governors of Chriſtian Familles, and ſhall they carry the badg and cognizance of heathens that know not God: <hi>Families that call not on his Name?</hi> [Read and tremble at <hi>Jer.</hi> 10.25.]</p>
+                  <p n="2">2. Is it not by example commended to you? Need I tell you of <hi>Jacobs</hi> worſhipping with his houſhold at <hi>Bethel?</hi> [<hi>Gen.</hi> 35.2, 3] Could he, think you, preſent Sacrifices, and yet paſſe by prayers, ſo prime a part of worſhip, which even Nature ſuggeſts, and by which the reſt is ſanctified? Or can you have ſo little charity for Saints, or Piety for our bleſſed Saviour, as when you read of ſo many houſholds Chri<g ref="char:EOLhyphen"/>ſtian, that were Churches of Chriſt, to re<g ref="char:EOLhyphen"/>tain ſtill your ungrounded prejudices; that there were no joynt-prayers, no not in any of all thoſe? Have you ſo forgotten how the pri<g ref="char:EOLhyphen"/>mitive Churches continued ſtedfaſtly together in prayers? [<hi>Acts</hi> 2.42. <hi>chap.</hi> 12.7.] Be<g ref="char:EOLhyphen"/>ſides, what did <hi>Joſhua, Daniel</hi> or <hi>Cornel us</hi> leſs then this, in and with their houſholds? [<hi>Joſh</hi> 24.15. <hi>Dan.</hi> 6.10. <hi>Acts</hi> 10.30. with <hi>ver.</hi> 2. com<g ref="char:EOLhyphen"/>pared] Sure I am, that Jeſus, our great Maſter did as much and more with his family, who not only when he was alone with his Diſci<g ref="char:EOLhyphen"/>ples prayed with them, <hi>Luke</hi> 9.18. [compare <hi>Mark</hi> 4.10.] but taught them alſo, how and
+<pb n="25" facs="tcp:110359:13"/>what to pray for, as <hi>John</hi> alſo did his Dilciples, [<hi>Luke</hi> 11.1, 2.]</p>
+                  <p n="3">3. Is it not in effect commanded you too? You are bound to pray <hi>alwayes,</hi> with <hi>all</hi> pray<g ref="char:EOLhyphen"/>er and ſupplication, <hi>Epheſ.</hi> 6.18. By whom? by what? or where are you more exempted from praying in your private families, then in the publike Congregation, or perſonally a<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>one in your Cloſets? Read and remember 1 <hi>Tim.</hi> 2.8. Beſides, Are you not to watch occaſions and improve opportunities unto pray<g ref="char:EOLhyphen"/>er? And that as may be beſt pleaſing to and moſt prevalent with God? [<hi>Epheſ.</hi> 6 18. 1 <hi>Pet.</hi> 4 7. <hi>Col.</hi> 1.10] And do not you ſee the preheminen<g ref="char:EOLhyphen"/>ty of, and promiſe to united prayers? [<hi>Mat.</hi> 18.19, 20] or durſt you ſay, you have no Fami<g ref="char:EOLhyphen"/>ly occaſions, and opportunities for prayer? Oh! <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ow practically and pathetically ſhall both theſe be owned, and penitently obſerved by <hi>fa<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ilies apart,</hi> at the converſion of the Jewes? [Conſider <hi>Zech.</hi> 12.12, 13, 14] Come then, what meaneſt thou, O ſleeper? Ariſe, Call upon thy God. In every thing by prayer and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>upplication with thankſgiving, let your requeſts be made known unto God, together with your houſholds; [<hi>Phil.</hi> 4.6.] and that dai<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, as you renew iniquities, need and re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eive mercies, and therefore ſhould return
+<pb n="26" facs="tcp:110359:14"/>unto God in Petitions and Praiſes, daily. [See <hi>Job</hi> 1.5. <hi>Mat.</hi> 6.11. <hi>Dan</hi> 6.10.] Oh beloved how good a thing it is to ſhew forth the loving-kindneſs of God every morning, and his faithfulneſs every night! [<hi>Pſal.</hi> 92.1, 2.] Was there not to be morning and evening Sa<g ref="char:EOLhyphen"/>crifice under the Law? [<hi>Exod.</hi> 30.7, 8. yea, and therewith, morning and evening Prayer? [<hi>Luke</hi> 1.9, 10.] An Friends! the Goſpel, which is more Spiritual, is it not withall as ſtrict? Is our freedom from Worſhip? from Prayer? or not rather to it? [See <hi>Rom.</hi> 6.18, 22. <hi>Luke</hi> 1.74, 75. <hi>Heb.</hi> 4.14, 16. <hi>&amp;</hi> 10.19, 20, 21, 22.] Oh! therefore let your Prayers be ſet forth before God as Incenſe, and the lifting up of your hands as the even<g ref="char:EOLhyphen"/>ing Sacrifice. [<hi>Pſal.</hi> 141.2.] How can you begin or end the day, and the duties thereof better, than by beginning and ending both, in and with him, from whom you, yours, and all other things, both begin and end.</p>
+               </div>
+            </div>
+            <div n="9" type="instruction">
+               <head>
+                  <hi>Direction</hi> IX.</head>
+               <p>Keep up a ſtrict Diſcipline in and over your Houſholds for God. Forget not this Battlement for your Roofs, leſt you bring blood upon your houſes. Farewel Duties, if ye let fall Diſcipline. What but ſin againſt
+<pb n="27" facs="tcp:110359:14"/>God, ſhame to you, and ſadneſs to your, will come in at that door, whereat this go<g ref="char:EOLhyphen"/>eth out? [Peruſe <hi>Prov.</hi> 29.15. <hi>&amp;</hi> 10.1. <hi>&amp;</hi> 17.21, 25.] Witneſs <hi>Eli</hi>'s houſe. I beſeech you therefore,</p>
+               <p n="1">1. Set up Family-order, elſe, never look for Family-obedience: [<hi>Matth.</hi> 8.9.] Let not yours be like <hi>Eli</hi>'s, Sons of Belial, <hi>i.e.</hi> with<g ref="char:EOLhyphen"/>out a yoke, [1 <hi>Sam.</hi> 2.12.] Let every Star know his Orb, each Member his Office. Here is the Beauty and how often doth God com<g ref="char:EOLhyphen"/>mand his Bleſſing on ſuch a Family! [<hi>Mat.</hi> 24.45. 1 <hi>Kings</hi> 10.5, 8. <hi>Gen.</hi> 43.33. <hi>Pſal.</hi> 128.3.4.]</p>
+               <p n="2">2. See there be Family-overſight. Muſt you be diligent to know the ſtate of your Flocks, and not of your Families? to look well to your Herds, and not to their eternal Happineſs? [<hi>Prov.</hi> 27.23.] Doth God take care for Oxen? [1 <hi>Cor.</hi> 9.9.] Shall <hi>Herods</hi> Swine be more to him, than his Son? What leſs then this, is implyed of <hi>Job,</hi> or was the endea<g ref="char:EOLhyphen"/>vor of <hi>Jacob?</hi> [<hi>Job</hi> 1.5. <hi>Gen.</hi> 35 2, 3, 4.]</p>
+               <p n="3">3 Let there be family correption or reproof. Not only ſhould ye watch over them, but warn thoſe that are unruly among them, and rebuke
+<pb n="28" facs="tcp:110359:15"/>them with all authority. [1 <hi>Theſſ.</hi> 5.14. <hi>Prov.</hi> 27.5.] Would ye not bear ſin for them? Do you not hate their ſouls? then in any wiſe re<g ref="char:EOLhyphen"/>buke them, who may otherwiſe curſe you if ye connive at them [See <hi>Lev.</hi> 19.17. Text and margin, <hi>Prov.</hi> 24.24, 25.]</p>
+               <p n="4">4. Let there be Family-correction too, as is occaſion. The rod and reproof give wiſdome. [<hi>Prov.</hi> 29.15. Compare, 1 <hi>Sam.</hi> 2.23, 24, 25. with <hi>chap.</hi> 3.13.] Is there not a ſervant that wil not be corrected by words? [<hi>Prov.</hi> 29.19.] If ſuch will not hear you counſelling, they ſhould feel you correcting, [See <hi>Luk.</hi> 12.47, 48. <hi>Prov.</hi> 19.29.] Yea &amp; in this, your child differeth no<g ref="char:EOLhyphen"/>thing from a ſervant, though he be heir to all. Ah Chriſtians! How many exceeding great and precious Promiſes have you to, and Precepts for chaſtizing them with the rod? And how hath God prevented our fond objections? [See <hi>Pro.</hi> 13.24. &amp; 19.18. &amp; 22, 15. &amp; 23.13. &amp; 29.17] Durſt you render all this in vain? Only remem<g ref="char:EOLhyphen"/>ber, when I preſs the rod, I perſwade you not to rage. Do not you call cruelty correction. [Read <hi>Epheſ.</hi> 6.4, 9. <hi>Col.</hi> 3.21. &amp; 4.1. <hi>Exod</hi> 21 20, 21, 26, 27.]</p>
+            </div>
+            <div n="10" type="instruction">
+               <pb n="29" facs="tcp:110359:15"/>
+               <head>
+                  <hi>Direction</hi> X.</head>
+               <p>Commend and Crown the practice of all theſe directions with an Humble, Holy, Courteous, and Convincing Converſation. Your carriage is like either to make or mar all your coun<g ref="char:EOLhyphen"/>ſels. One good work or gracious action, will go further, than a hundred good words or the greateſt Argumentations. Oh! how much readier are ours to believe what they ſee us do, than what they hear us diſcourſe of? Shall it be ſaid, my beloved, to yours, and of you, [Read Matth. 23.3.] as Chriſt ſaid to the multitude, of the Scribes and Phariſees? No, ſo ſay, and ſo do. Let your actions Comment on, and Commend your Adviſes. One ſullen paſſion, or ſcandalous paſſage, may prejudice all your other Pains and Prayers. You Maſters, and we Miniſters, can never ſinne at the common, or at as a cheap a rate as others. [See <hi>Rom.</hi> 2.17. <hi>ad</hi> 25. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.] Oh therefore take heed to your ſelves firſt, and moſt! who have ſouls to be ſaved, ſins to be ſubdued, a God to honour an heaven to win or loſe, a devil to tempt you, and a deceitful heart to turn you aſide, as well as have any of yours. Are you not men with them of like paſſions? Let every man therefore reſolve with <hi>Joſhua, firſt</hi> for himſelf, then for his. [<hi>Joſ.</hi> 24.15.] If you
+<pb n="30" facs="tcp:110359:16"/>would have them indeed ſerve God; ſo do, as they may ſecond you. Be and do that for God which you bear them in hand they muſt do, or they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an never be ſaved. No exhortations will be ſo enforcing as your own examples. See how it entailes a form of good or evil from generati<g ref="char:EOLhyphen"/>on to generation, 2 <hi>Kings</hi> 14.3. <hi>chap.</hi> 15.3. with <hi>ver.</hi> 34.2 <hi>King.</hi> 15.9. <hi>chap.</hi> 17.41. <hi>Jer.</hi> 17.1, 2. <hi>Prov.</hi> 29.12. Oh Beloved, if ever ye would have your houſes walk with God, you muſt walk before God with a perfect heart, in and before your houſes.</p>
+               <p>And now, my deareſt Brethren, what is our hope, or joy or crown of rejoycing? Shall not even ye be in the preſence of the Lord at his com<g ref="char:EOLhyphen"/>ing, if ye ſhall fulfil with him? Yea, we live if ye ſtand faſt in the Lord, who can have no grea<g ref="char:EOLhyphen"/>ter joy, then to ſee your ſelves and families fel<g ref="char:EOLhyphen"/>low-Citizens with the Saints, and of the houſe<g ref="char:EOLhyphen"/>hold of God. Beloved your work is before you. Oh! let not your houſes be <hi>Beth-avens,</hi> houſes of iniquitie and vanitie; but <hi>Bethels,</hi> houſes of God, and godly duties. Let it not be written of, or on any of them, <hi>Such are the dwellings of the wicked, and this is the place of him that knoweth not God.</hi> But let all that paſſe by them be able to ſee, and ſay of them, <hi>The Lord
+<pb n="31" facs="tcp:110359:16"/>is in this place, this is no other but the houſe of God, yea in a ſort this is the gate of heaven,</hi> [Job 18.21. Gen. 28.16, 17.] So prayeth,</p>
+            </div>
+            <closer>
+               <dateline>From my Study, <date>April 6. 1657.</date>
+               </dateline>
+               <signed>A Remembrancer of your beſt welfare from and unto God, <hi>JOHN NORMAN.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
